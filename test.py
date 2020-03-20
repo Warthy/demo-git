@@ -1,5 +1,5 @@
 a = 12
 print(a)
 
-b = "Hello world!"
+b = "Hello world from master!"
 print(b)
