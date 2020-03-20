@@ -1,5 +1,5 @@
 a = 12
 print(a)
 
-b = "Hello word !"
+b = "Hello world!"
 print(b)
